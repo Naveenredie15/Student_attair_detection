@@ -1,0 +1,1 @@
+#Student attait detection that is it dtects the student ID and Inshirt an d shoes
